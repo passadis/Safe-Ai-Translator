@@ -94,3 +94,6 @@ The system consists of three main components:
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Architecture
+
+![ai-tr-architecture](https://github.com/user-attachments/assets/a6e388ba-c3c4-480e-b27a-ed0f5e6a1b8b)
+

@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This project demonstrates a modern, secure AI translation service powered by Azure AI Services. It features a sleek React frontend, robust Express.js backend, and integrates Azure's AI services for translation and content safety. The application provides real-time translation capabilities while ensuring content safety through Azure's content moderation services. Also, Entra ID authentication is done using MSAL v2 and OAuth 2.0, with the latest Authorization Code Flow with Proof Key for Code Exchange (PKCE). We’ll deploy this application on Azure Container Apps, configure an Application Gateway, and integrate Dapr for a seamless micro-services experience.
+This project demonstrates a modern, secure AI translation service powered by Azure AI Services, AI Translator and Azure Content Safety. It features a sleek React frontend, robust Express.js backend, and integrates Azure's AI services for translation and content safety. The application provides real-time translation capabilities while ensuring content safety through Azure's content moderation services. Also, Entra ID authentication is done using MSAL v2 and OAuth 2.0, with the latest Authorization Code Flow with Proof Key for Code Exchange (PKCE). We’ll deploy this application on Azure Container Apps Custom VNET, configure an Application Gateway, and integrate Dapr for a seamless micro-services experience.
 
 ## Technologies Used
 

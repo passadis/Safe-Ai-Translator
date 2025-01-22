@@ -54,7 +54,14 @@ The system consists of three main components:
    - Azure Container Apps for deployment
    - Azure Key Vault for secrets
 
-## Setup and Deployment
+## Getting Started
+
+  1.    **Set Up Your Development Environment**: Ensure your workstation is equipped with Azure CLI, Docker Desktop, and Node.js.
+
+  2.    **Clone the Repository**: Get started by cloning this repository to your local environment.
+
+  3.    **Follow the Blog for Detailed Instructions**: For step-by-step guidance, visit [Safe AI Translator: How to seamlessly integrate Entra Authentication](https://www.cloudblogger.eu/2025/01/22/safe-ai-translator/).
+
 
 
 ### Prerequisites
